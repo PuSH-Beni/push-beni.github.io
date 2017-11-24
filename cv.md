@@ -1,0 +1,10 @@
+---
+title: Curriculum Vitæ
+layout: cv
+actions:
+  - label: "Download as PDF"
+    icon: pdf
+    url: "#pdf-asset"
+---
+## Note that this is just a basic resume of myself. 
+### If you are interested, please feel free to see my formal [CV](https://drive.google.com/open?id=1M4LLfZMe6dCpiM7jbDQm_0RwN8h7VZ9d) here.
