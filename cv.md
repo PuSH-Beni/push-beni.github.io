@@ -1,5 +1,5 @@
 ---
-title: Curriculum Vitæ
+title: Resume
 layout: cv
 actions:
   - label: "Download as PDF"
@@ -7,4 +7,4 @@ actions:
     url: "#pdf-asset"
 ---
 ## Note that this is just a basic resume of myself. 
-### If you are interested, please feel free to see my formal [CV](https://drive.google.com/open?id=1M4LLfZMe6dCpiM7jbDQm_0RwN8h7VZ9d) here.
+### If you are interested, please feel free to see my formal [Curriculum Vitae](https://drive.google.com/open?id=1M4LLfZMe6dCpiM7jbDQm_0RwN8h7VZ9d) here.
