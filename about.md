@@ -2,13 +2,10 @@
 title: "About"
 layout: about
 ---
-# The Theme of This Website
-Basically Basic is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as a substitute for the default --- [Minima](https://github.com/jekyll/minima). Conventions and features found there are fully supported by **Basically Basic**, with a few enhancements thrown in for good measure:
-
-- Clean responsive design with [six customizable skins](#skin)
-- Curriculum Vitæ/Resume layout powered by [JSON data](http://registry.jsonresume.org/)
-- About page layout
-- Disqus Comments and Google Analytics support
-- SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
-
-You can find the source code for this theme at: {% include icon-github.html username="mmistakes" %}/[jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
+# About Me
+  - I am a M.S. student now, majoring in CS.
+  - I like weightlifting and swimming as well as playing games on Nintendo Switch (_Zelda_ is one of my favorites). 
+  - And I also love movies (the Matrix is my favorite) and animations. 
+  - As for music (or songs), I prefer classical and J-pops.
+  - If you have any question, please feel free to contact me via email.
+  - I _do_ have twitter and facebook accounts (even instagram or pinterest), but my favorite is [*bilibili*](https://space.bilibili.com/6994698/#!/).
