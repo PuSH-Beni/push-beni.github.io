@@ -2,7 +2,7 @@
 title: "About"
 layout: about
 ---
-# About Me
+# SIHANG PU
   - I am a M.S. student now, majoring in CS.
   - I like weightlifting and swimming as well as playing games on Nintendo Switch (_Zelda_ is one of my favorites). 
   - And I also love movies (the Matrix is my favorite) and animations. 
