@@ -4,5 +4,3 @@ before_install:
 install:
   - bundle install
 script: rake test
-deploy:
-  skip_cleanup: true
