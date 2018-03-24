@@ -3,8 +3,6 @@ before_install:
   - rvm install 2.5.0
 install:
   - bundle install
-script:
-  - bundle exec jekyll build
-  - htmlproofer --assume-extension ./_site
+script: rake test
 deploy:
   skip_cleanup: true

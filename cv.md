@@ -4,7 +4,7 @@ layout: cv
 actions:
   - label: "Download as PDF"
     icon: pdf
-    url: "#pdf-asset"
+    url: "/assets/files/Resume_Sihang_Pu.pdf"
 ---
-## Note that this is just a basic resume of myself. 
-### If you are interested, please feel free to see my formal [Curriculum Vitae](https://drive.google.com/open?id=1M4LLfZMe6dCpiM7jbDQm_0RwN8h7VZ9d) here.
+## Note that this is just a basic resume of myself.
+### If you are interested, please feel free to see my formal [Curriculum Vitae](/assets/files/Resume_Sihang_Pu.pdf) here.
