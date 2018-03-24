@@ -1,5 +1,9 @@
 language: ruby
-rvm:
-- 2.1.1
+befor_install:
+  - rvm install 2.5.0
+install:
+  - bundle install
 script:
-- bundle exec jekyll build && bundle exec htmlproof ./_site
+  - bundle exec jekyll build && bundle exec htmlproof ./_site
+deploy:
+  skip_cleanup: true
