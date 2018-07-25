@@ -22,14 +22,14 @@
   "education": [
     {
       "institution": "Shanghai Jiao Tong University",
-      "studyType": "M.S.",
+      "studyType": "M.Eng.",
       "startDate": "2015-09-01",
       "endDate": "2018-03-01",
       "gpa": "",
     },
     {
       "institution": "Northwestern Polytechnical University",
-      "studyType": "B.S.",
+      "studyType": "B.Eng.",
       "startDate": "2011-09-01",
       "endDate": "2015-06-01",
       "gpa": "",
@@ -43,13 +43,11 @@
   ],
   "interests": [
     {
-      "name": "Computer Science",
+      "name": "Security and applied crypto",
       "keywords": [
+        "Multiparty Secure Computation",
+        "Side Channel Attacks",
         "Machine Learning",
-        "Compuer Graphics and Animation",
-        "Physical Simulation",
-        "Computer Architecture",
-        "Hardware Security",
       ]
     }
   ],
