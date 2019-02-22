@@ -8,4 +8,4 @@ actions:
 published: true
 ---
 ## Note that this is just a basic resume of myself.
-### If you are interested, please feel free to see my formal [Curriculum Vitae](/assets/files/sihang.en.pdf) here.
+### If you are interested, please feel free to see my formal \[Curriculum Vitae\] here.
