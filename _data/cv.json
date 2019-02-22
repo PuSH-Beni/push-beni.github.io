@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "SIHANG PU",
-    "label": "PIONEER IN FASHION",
+    "label": "", 
     "picture": "",
     "email": "push.beni@gmail.com",
-    "summary": "POPULARITY IS FOR MEDIOCRE PEOPLE.",
+    "summary":  "", 
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "SHANGHAI",
+      "city":  "", 
       "countryCode": "CHINA",
       "region": ""
     },
@@ -21,30 +21,30 @@
   },
   "education": [
     {
-      "institution": "Shanghai Jiao Tong University",
-      "studyType": "M.Eng.",
-      "startDate": "2015-09-01",
-      "endDate": "2018-03-01",
+      "institution": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
       "gpa": "",
     },
     {
-      "institution": "Northwestern Polytechnical University",
-      "studyType": "B.Eng.",
-      "startDate": "2011-09-01",
-      "endDate": "2015-06-01",
+      "institution": "", 
+      "studyType":  "", 
+      "startDate": "", 
+      "endDate":  "", 
       "gpa": "",
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "good in reading/writing, fair in oral"
+      "language":  "", 
+      "fluency":  "", 
     }
   ],
   
   "interests": [
     {
-      "name": "--",
+      "name":  "", 
       "keywords": [
      ]
     }
