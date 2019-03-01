@@ -1,6 +1,14 @@
 ---
 title: about me
 layout: about
+actions:
+  - label: wechat
+    icon: wechat
+    url: '/assets/files/wechat-qrcode.pdf'
+  - label: bilibili
+    icon: bilibili
+    url: 'https://space.bilibili.com/6994698/'
+
 published: true
 ---
 ### Sihang Pu
