@@ -9,9 +9,11 @@ published: true
 ---
 
 ```bash
-pushbeni@Sihangsp:~$ search publications of Sihang:
+pushbeni@Sihangsp:~$ searching the database for sihang's publications:
 pushbeni@Sihangsp:~$ ... waiting ...
 pushbeni@Sihangsp:~$ ... waiting ...
 pushbeni@Sihangsp:~$ 0 results found.
+pushbeni@Sihangsp:~$ XDDDD
 
+# what a shame!
 ```
