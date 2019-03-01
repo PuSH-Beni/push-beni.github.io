@@ -1,22 +1,22 @@
 {
   "basics": {
-    "name": "SIHANG PU",
-    "label": "", 
+    "name": "Sihang Pu",
+    "label": "",
     "picture": "",
     "email": "push.beni@gmail.com",
-    "summary":  "", 
+    "summary":  "",
     "location": {
       "address": "",
       "postalCode": "",
-      "city":  "", 
-      "countryCode": "CHINA",
+      "city":  "",
+      "countryCode": "China",
       "region": ""
     },
     "profiles": [
       {
         "network": "WeChat",
-        "username": "beni_push",
-      },
+        "username": "beni_push"
+      }
     ]
   },
   "education": [
@@ -25,28 +25,28 @@
       "studyType": "",
       "startDate": "",
       "endDate": "",
-      "gpa": "",
+      "gpa": ""
     },
     {
-      "institution": "", 
-      "studyType":  "", 
-      "startDate": "", 
-      "endDate":  "", 
-      "gpa": "",
+      "institution": "",
+      "studyType":  "",
+      "startDate": "",
+      "endDate":  "",
+      "gpa": ""
     }
   ],
   "languages": [
     {
-      "language":  "", 
-      "fluency":  "", 
+      "language":  "",
+      "fluency":  ""
     }
   ],
-  
+
   "interests": [
     {
-      "name":  "", 
+      "name":  "",
       "keywords": [
      ]
     }
- ],
+ ]
 }
