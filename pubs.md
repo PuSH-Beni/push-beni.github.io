@@ -14,7 +14,5 @@ published: true
 - **Multiparty Cardinality Testing for Threshold Private Set Intersection** *EPRINT 2020/1307*
   > Pedro Branco and Nico Döttling and Sihang Pu
 
-- **Laconic Reusable Private Set Intersection (and more)** *Under Review*
+- **Reusable Laconic Private Set Intersection (and More)** *Under Review*
   > Pedro Branco and Nico Döttling and Sihang Pu
-
-
