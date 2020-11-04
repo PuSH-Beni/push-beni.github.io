@@ -23,4 +23,4 @@ published: true
 - **Trace Augmentation: What Can Be Done Even Before Preprocessing in a Profiled SCA?** *CARDIS 2017*
   > Sihang Pu, Yu Yu, Weijia Wang, Zheng Guo, Junrong Liu, Dawu Gu et al.
 - **Inner Product Masking for Bitslice Ciphers and Security Order Amplification for Linear Leakages** *CARDIS 2016*
-  > Weijia Wang, François-Xavier Standaert, Yu Yu, Sihang Pu Junrong Liu, Zheng Guo, Dawu Gu
+  > Weijia Wang, François-Xavier Standaert, Yu Yu, Sihang Pu, Junrong Liu, Zheng Guo, Dawu Gu
