@@ -9,12 +9,12 @@ published: true
 ---
 
 - **A Combinatorial Approach to Quantum Random Functions** *ASIACRYPT 2020*
- - Nico Döttling and Giulio Malavolta and Sihang Pu
+  > Nico Döttling and Giulio Malavolta and Sihang Pu
 
 - **Multiparty Cardinality Testing for Threshold Private Set Intersection** *EPRINT 2020/1307*
- - Pedro Branco and Nico Döttling and Sihang Pu
+  > Pedro Branco and Nico Döttling and Sihang Pu
 
 - **Laconic Reusable Private Set Intersection (and more)** *Under Review*
- - Pedro Branco and Nico Döttling and Sihang Pu
+  > Pedro Branco and Nico Döttling and Sihang Pu
 
 
