@@ -4,16 +4,17 @@ layout: post
 actions:
   - label: dblp
     icon: dblp
-    url: https://dblp.uni-trier.de/pers/hd/p/Pu:Sihang
+    url: 'https://dblp.uni-trier.de/pers/hd/p/Pu:Sihang'
 published: true
 ---
 
-```bash
-pushbeni@Sihangsp:~$ searching the database for sihangs publications:
-pushbeni@Sihangsp:~$ ... waiting ...
-pushbeni@Sihangsp:~$ ... waiting ...
-pushbeni@Sihangsp:~$ 0 results found.
-pushbeni@Sihangsp:~$ XDDDD
+- **A Combinatorial Approach to Quantum Random Functions** *ASIACRYPT 2020*
+ - Nico Döttling and Giulio Malavolta and Sihang Pu
 
-# what a shame!
-```
+- **Multiparty Cardinality Testing for Threshold Private Set Intersection** *EPRINT 2020/1307*
+ - Pedro Branco and Nico Döttling and Sihang Pu
+
+- **Laconic Reusable Private Set Intersection (and more)** *Under Review*
+ - Pedro Branco and Nico Döttling and Sihang Pu
+
+
