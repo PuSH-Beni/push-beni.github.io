@@ -7,12 +7,12 @@ actions:
     url: 'https://dblp.uni-trier.de/pers/hd/p/Pu:Sihang'
 published: true
 ---
-### Theory:
+### Crypto:
 
 - **Reusable Laconic Private Set Intersection (and More)** *Under Review*
   > Pedro Branco and Nico Döttling and Sihang Pu
 
-- **Multiparty Cardinality Testing for Threshold Private Set Intersection** *EPRINT 2020/1307*
+- **Multiparty Cardinality Testing for Threshold Private Set Intersection** *PKC 2021*
   > Pedro Branco and Nico Döttling and Sihang Pu
 
 - **A Combinatorial Approach to Quantum Random Functions** *ASIACRYPT 2020*
