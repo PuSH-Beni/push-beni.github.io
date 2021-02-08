@@ -7,7 +7,7 @@ actions:
     url: 'https://dblp.uni-trier.de/pers/hd/p/Pu:Sihang'
 published: true
 ---
-### Crypto:
+### Theory/Cryptography:
 
 - **Reusable Laconic Private Set Intersection (and More)** *Under Review*
   > Pedro Branco and Nico Döttling and Sihang Pu
