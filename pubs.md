@@ -7,7 +7,7 @@ actions:
     url: 'https://dblp.uni-trier.de/pers/hd/p/Pu:Sihang'
 published: true
 ---
-### Crypto:
+### Theory/Cryptography:
 
 - **Reusable Laconic Private Set Intersection (and More)** *Under Review*
   > Pedro Branco and Nico Döttling and Sihang Pu
@@ -18,7 +18,7 @@ published: true
 - **A Combinatorial Approach to Quantum Random Functions** *ASIACRYPT 2020*
   > Nico Döttling and Giulio Malavolta and Sihang Pu
 
-### Side-channel:
+### Side-channel Analysis:
 
 - **Trace Augmentation: What Can Be Done Even Before Preprocessing in a Profiled SCA?** *CARDIS 2017*
   > Sihang Pu, Yu Yu, Weijia Wang, Zheng Guo, Junrong Liu, Dawu Gu et al.
