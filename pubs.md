@@ -9,8 +9,8 @@ published: true
 ---
 ### Theory/Cryptography:
 
-- **Reusable Laconic Private Set Intersection (and More)** *Under Review*
-  > Pedro Branco and Nico Döttling and Sihang Pu
+- **Laconic Private Set Intersection and Applications** *Under Review*
+  > 
 
 - **Multiparty Cardinality Testing for Threshold Private Set Intersection** *PKC 2021*
   > Pedro Branco and Nico Döttling and Sihang Pu
